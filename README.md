@@ -21,3 +21,5 @@ So be resourceful and take advantage to all of it, you don’t have to spend so 
 - [JavaScript Algorithms](https://github.com/NeirouzJbira/javascript-algorithms)
 - [Coding Interview University](https://github.com/NeirouzJbira/coding-interview-university)
 - [Free Programming Books](https://github.com/NeirouzJbira/free-programming-books)
+- [FrontEnd Collection](https://github.com/NeirouzJbira/FrontEndCollection)
+- [Front-end Developer Interview Questions](https://github.com/NeirouzJbira/Front-end-Developer-Interview-Questions)
