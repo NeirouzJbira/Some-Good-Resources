@@ -23,3 +23,4 @@ So be resourceful and take advantage to all of it, you don’t have to spend so 
 - [Free Programming Books](https://github.com/NeirouzJbira/free-programming-books)
 - [FrontEnd Collection](https://github.com/NeirouzJbira/FrontEndCollection)
 - [Front-end Developer Interview Questions](https://github.com/NeirouzJbira/Front-end-Developer-Interview-Questions)
+- [Python-3 Crash Course](https://github.com/NeirouzJbira/Python-3-Crash-Course)
