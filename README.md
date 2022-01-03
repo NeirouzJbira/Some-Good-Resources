@@ -28,3 +28,4 @@ So be resourceful and take advantage to all of it, you don’t have to spend so 
 - [Speech Recognition](https://github.com/NeirouzJbira/speech_recognition)
 - [Machine Learning For Beginners](https://github.com/NeirouzJbira/ML-For-Beginners)
 - [Introduction Data Science Python Book](https://github.com/NeirouzJbira/introduction-datascience-python-book)
+- [GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.](https://github.com/NeirouzJbira/GFPGAN)
