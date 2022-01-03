@@ -23,4 +23,8 @@ So be resourceful and take advantage to all of it, you don’t have to spend so 
 - [Free Programming Books](https://github.com/NeirouzJbira/free-programming-books)
 - [FrontEnd Collection](https://github.com/NeirouzJbira/FrontEndCollection)
 - [Front-end Developer Interview Questions](https://github.com/NeirouzJbira/Front-end-Developer-Interview-Questions)
+- [Teaching Materials](https://github.com/NeirouzJbira/teaching-materials)
 - [Python-3 Crash Course](https://github.com/NeirouzJbira/Python-3-Crash-Course)
+- [Speech Recognition](https://github.com/NeirouzJbira/speech_recognition)
+- [Machine Learning For Beginners](https://github.com/NeirouzJbira/ML-For-Beginners)
+- [Introduction Data Science Python Book](https://github.com/NeirouzJbira/introduction-datascience-python-book)
