@@ -19,6 +19,7 @@ So be resourceful and take advantage to all of it, you don’t have to spend so 
 - [Airbnb JavaScript Style Guide](https://github.com/NeirouzJbira/javascript)
 - [Clean Code JavaScript](https://github.com/NeirouzJbira/clean-code-javascript)
 - [JavaScript Algorithms](https://github.com/NeirouzJbira/javascript-algorithms)
+- [30 Days Of JavaScript](https://github.com/NeirouzJbira/30-Days-Of-JavaScript)
 - [Coding Interview University](https://github.com/NeirouzJbira/coding-interview-university)
 - [Free Programming Books](https://github.com/NeirouzJbira/free-programming-books)
 - [FrontEnd Collection](https://github.com/NeirouzJbira/FrontEndCollection)
