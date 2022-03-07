@@ -38,3 +38,5 @@ So be resourceful and take advantage to all of it, you don’t have to spend so 
 - [React For Everyone](https://github.com/NeirouzJbira/React-For-Everyone)
 - [30 Days Of Python](https://github.com/NeirouzJbira/30-Days-Of-Python)
 - [Python for Everyone](https://github.com/NeirouzJbira/Python-for-Everyone)
+- [Tech Interview Handbook](https://github.com/NeirouzJbira/tech-interview-handbook)
+- [Javascript Interview Questions](https://github.com/NeirouzJbira/javascript-interview-questions)
