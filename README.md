@@ -40,3 +40,4 @@ So be resourceful and take advantage to all of it, you don’t have to spend so 
 - [Python for Everyone](https://github.com/NeirouzJbira/Python-for-Everyone)
 - [Tech Interview Handbook](https://github.com/NeirouzJbira/tech-interview-handbook)
 - [Javascript Interview Questions](https://github.com/NeirouzJbira/javascript-interview-questions)
+- [Data Science](https://github.com/NeirouzJbira/Data-science)
